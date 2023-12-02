@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/serverless-ao-g00298371-1/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/serverless-ao-g00298371-1#readme"
+  "homepage": "https://github.com/RVCC-IDMX/serverless-ao-g00298371-1#readme",
+  "devDependencies": {
+    "@eslint/create-config": "^0.4.6",
+    "eslint": "^8.55.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.0"
+  }
 }
