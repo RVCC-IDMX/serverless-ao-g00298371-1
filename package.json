@@ -1,0 +1,20 @@
+{
+  "name": "serverless-ao-g00298371-1",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/serverless-ao-g00298371-1.git"
+  },
+  "keywords": [],
+  "author": "Alexander O'Neill <g00298371@stu.raritanval.edu> (https://github.com/RVCC-IDMX/cowsay-ao-g00298371)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/serverless-ao-g00298371-1/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/serverless-ao-g00298371-1#readme"
+}
