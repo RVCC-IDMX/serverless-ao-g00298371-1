@@ -14,11 +14,12 @@
     <p id="response-output">Response Placeholder</p>
 
     <script>
-      document.addEventListener('DOMContentLosaded', () => {
+      document.addEventListener('DOMContentLoaded', () => {
         const fetchBtn = document.getElementById('fetch-btn')
         const responseText = document.getElementById('response-output')
 
         fetchBtn.addEventListener('click', async () => {
+          console.log("clicked");
           const response = await fetch ('/.netlify/functions/hello-world').then(response => response.json())
 
           responseText.innerText = JSON.stringify(response)
