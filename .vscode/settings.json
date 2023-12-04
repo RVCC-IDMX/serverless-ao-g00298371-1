@@ -39,5 +39,6 @@
     "css.format.newlineBetweenSelectors": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": true
-    }
+    },
+    "liveServer.settings.port": 5501
 }
